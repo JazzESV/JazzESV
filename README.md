@@ -1,13 +1,12 @@
-# 👋 Привет, я Сергей!
+# 👋 Привет, меня зовут Сергей!
 
 ## 🚀 Обо мне
 
-💻 **Backend Developer** | 🐍 **Python Enthusiast** 
+💻 **Data Analyst** | 🐍 **Python Enthusiast** 
 
 - 🔭 Сейчас работаю над: проектом синхронизации данных Bitrix24
 - 🌱 Изучаю: Data Engineering, Apache Airflow, Docker
-- 💬 Спросите меня о: Python, PostgreSQL, API интеграциях
-- 📫 Как связаться: [ваш email или телеграм]
+- 📫 Как связаться: [почта](JazzESV@yandex.ru)
 - ⚡ Интересный факт: Люблю автоматизировать рутинные задачи
 
 ## 🛠 Технологический стек
@@ -25,8 +24,6 @@
 
 ## 📊 GitHub статистика
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JazzESV&show_icons=true&theme=radical)](https://github.com/JazzESV)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzESV&layout=compact&theme=radical)](https://github.com/JazzESV)
 
 ## 🔥 Мои проекты
@@ -42,8 +39,8 @@
 
 ## 📫 Контакты
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваш.email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_телеграм)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](JazzESV@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@Jazz_esv)
 
 ---
 
