@@ -13,6 +13,7 @@
 ## 🛠 Технологический стек
 
 ### 💻 Backend & Data
+  <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
