@@ -32,7 +32,7 @@
 ## 🔥 Мои проекты
 
 ### 📊 Pipeline Data Visualization
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzESV&repo=pipeline-data-visualization&theme=radical)]([https://github.com/JazzESV/pipeline-data-visualization](https://github.com/JazzESV/Pipeline_Data_Visualization))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzESV&repo=Pipeline_Data_Visualization&theme=radical)](https://github.com/JazzESV/Pipeline_Data_Visualization)
 
 **Микросервисная система для синхронизации данных из Bitrix24**
 
