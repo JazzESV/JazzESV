@@ -24,12 +24,20 @@
 
 ## 📊 GitHub статистика
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzESV&layout=compact&theme=radical)](https://github.com/JazzESV)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JazzESV&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&hide_border=true)](https://github.com/JazzESV)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzESV&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true)](https://github.com/JazzESV)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JazzESV&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=58A6FF&dates=C9D1D9&sideLabels=58A6FF&sideNums=C9D1D9)](https://git.io/streak-stats)
+
+</div>
 
 ## 🔥 Мои проекты
 
 ### 📊 Pipeline Data Visualization
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzESV&repo=Pipeline_Data_Visualization&show_owner=true&theme=radical&description=1)](https://github.com/JazzESV/Pipeline_Data_Visualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzESV&repo=Pipeline_Data_Visualization&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&show_owner=true)](https://github.com/JazzESV/Pipeline_Data_Visualization)
 
 **Описание:** Микросервисная система для автоматической синхронизации данных из Bitrix24 в PostgreSQL с визуализацией в Superset
 
