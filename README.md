@@ -34,6 +34,10 @@
 ### 📊 Pipeline Data Visualization
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzESV&repo=Pipeline_Data_Visualization&theme=radical)](https://github.com/JazzESV/Pipeline_Data_Visualization)
 
+**Описание:** Микросервисная система для автоматической синхронизации данных из Bitrix24 в PostgreSQL с визуализацией в Superset
+
+**Технологии:** `Python` `Airflow` `PostgreSQL` `Docker` `Superset` `Bitrix24 API`
+
 **Микросервисная система для синхронизации данных из Bitrix24**
 
 ## 📫 Контакты
