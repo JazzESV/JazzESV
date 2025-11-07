@@ -56,22 +56,22 @@
 ### 💻 Backend & Data
 <div align="center">
   
-<img src="https://raw.githack.com/MikeCodesDotNET/Colored-Badges/refs/heads/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px">
-<img src="https://raw.githack.com/MikeCodesDotNET/Colored-Badges/refs/heads/master/svg/dev/frameworks/django.svg" alt="Django" style="vertical-align:top; margin:6px">
-<img src="https://raw.githack.com/MikeCodesDotNET/Colored-Badges/refs/heads/master/svg/dev/databases/postgresql.svg" alt="PostgreSQL" style="vertical-align:top; margin:6px">
-<img src="https://raw.githack.com/MikeCodesDotNET/Colored-Badges/refs/heads/master/svg/dev/tools/pandas.svg" alt="Pandas" style="vertical-align:top; margin:6px">
-<img src="https://raw.githack.com/MikeCodesDotNET/Colored-Badges/refs/heads/master/svg/dev/languages/mysql.svg" alt="MySQL" style="vertical-align:top; margin:6px">
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" style="vertical-align:top; margin:6px">
-<img src="https://img.shields.io/badge/ClickHouse-FF6B00?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse" style="vertical-align:top; margin:6px">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/ClickHouse-FF6B00?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse" style="vertical-align:top; margin:4px">
 
 </div>
 
 ### 🔧 Инструменты
 <div align="center">
   
-<img src="https://raw.githack.com/MikeCodesDotNET/Colored-Badges/refs/heads/master/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:6px">
-<img src="https://raw.githack.com/MikeCodesDotNET/Colored-Badges/refs/heads/master/svg/dev/services/airflow.svg" alt="Airflow" style="vertical-align:top; margin:6px">
-<img src="https://raw.githack.com/MikeCodesDotNET/Colored-Badges/refs/heads/master/svg/dev/services/docker.svg" alt="Docker" style="vertical-align:top; margin:6px">
-<img src="https://img.shields.io/badge/Superset-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="Superset" style="vertical-align:top; margin:6px">
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Superset-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="Superset" style="vertical-align:top; margin:4px">
 
 </div>
