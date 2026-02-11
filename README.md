@@ -28,13 +28,12 @@
 
 ## 📊 GitHub статистика
 
-### 🏆 Топ языков программирования
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JazzESV&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F)
 
 ## 🔥 Мои проекты
 
 ### 📊 Pipeline Data Visualization
-![Pipeline Data Visualization](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JazzESV&repo=Pipeline_Data_Visualization&show_owner=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=1F6FEB)
+[![Pipeline Data Visualization](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JazzESV&repo=Pipeline_Data_Visualization&show_owner=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=1F6FEB)](https://github.com/JazzESV/Pipeline_Data_Visualization)
 
 **Описание:** Микросервисная система для автоматической синхронизации данных из Bitrix24 в PostgreSQL с визуализацией в Superset
 
